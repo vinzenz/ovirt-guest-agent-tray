@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=oVirt Guest Agent Tray
+Comment=Messenger tray for the oVirt Guest Agent
+Exec=/home/user/traytest.py
+Terminal=false
+Type=Application
+Categories=
+X-GNOME-Autostart-Phase=Initialization
